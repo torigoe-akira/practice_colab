@@ -1,0 +1,9 @@
+# Colabの自動保存フォルダを無視
+.ipynb_checkpoints/
+
+# Pythonのキャッシュを無視
+__pycache__/
+*.py[cod]
+
+# (もしあれば) 設定ファイルや秘密情報を無視
+.env
